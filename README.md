@@ -57,7 +57,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-de-paula-michelon-toniato-a4ba25335/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-honorato-27ba0933b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_apptarget="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqjCHQxNfQTdTnblmLskHtJCCcrbpgSPgbfHCMbfXSkjGhWrXxTDMBqgFkpwKPKNPQVxbv" target="_blank">
