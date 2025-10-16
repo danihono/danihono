@@ -2,9 +2,9 @@
 
 📕 Studying Software Engineer at PUC-Campinas
 
-🤖 AI Agents Developer from Voratte 
+🤖 Web Developer at Follow Advisor
 
-🎯 Searching for a professional job
+
 
 
 </div>
@@ -42,7 +42,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="40" alt="css logo" />
+ <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height="40" alt="html logo"/>
+ <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"height="40" alt="trello logo"  /> />
  
 </div>
 
