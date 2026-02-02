@@ -1,8 +1,8 @@
  ## Welcome, I´m Daniel Honorato and I´m a Software Developer!🖥️
 
-📕 Studying Software Engineer at PUC-Campinas
+📕 Studying Software Engineer at Anchieta University.
 
-🤖 Web Developer at Follow Advisor
+🤖 Software Developer at Follow Labs ( Startup from Follow Advisor)
 
 
 
