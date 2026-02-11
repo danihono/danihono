@@ -69,15 +69,6 @@
 
 ---
 
-## 🧪 Featured Projects (pin your best ones!)
-
-> ⭐ Pin your top repos on GitHub and they’ll appear here visually for visitors.
-
-- 🛠️ **Project 1** — short description (what it solves + stack)
-- 🧠 **Project 2** — short description (impact + stack)
-- 🚀 **Project 3** — short description (cool feature + stack)
-
----
 
 ## 🌐 Social
 
