@@ -7,7 +7,7 @@
 # 👋 Welcome, I'm **Daniel Honorato**  
 ### 🖥️ Software Developer • 🤖 Builder • 🚀 Always shipping
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Software+Developer+at+Follow+Labs;Studying+Software+Engineering+%40+Anchieta+University;Python+%7C+MySQL+%7C+Streamlit+%7C+Web;Building+products+with+clean+code+%26+high+impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Software+Developer+at+Follow+Labs;Studying+Software+Engineering+%40+Anchieta+University;Python+%7C+MySQL+%7C+Streamlit+%7C+Web" />
 
 <br/>
 
