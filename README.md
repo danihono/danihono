@@ -29,8 +29,8 @@
 
 - 🎓 Studying **Software Engineering** at **Anchieta University**
 - 🤖 Software Developer at **Follow Labs** *(Startup from Follow Advisor)*
-- 🧩 I like building **useful products**, writing **clean code**, and optimizing **performance & UX**
-- ⚙️ Current focus: **Python apps**, **data**, and **web experiences**
+- 🧩 I like building **useful products**, developing AI tools for companies*, and optimizing **performance & UX**
+- ⚙️ Current focus: **AI**, and **web experiences**
 
 ---
 
