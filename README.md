@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=500&center=true&vCenter=true&width=900&lines=👋+Welcome,+I'm+Daniel+Honorato;🖥️+Full+Stack+Developer;🚀+Building+AI+Tools+%26+Web+Experiences;⚡+Always+Shipping+Quality+Code" alt="Typing animation" />
+<!-- Animated Wave Header (Capsule Render — more reliable than typing SVG services) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Daniel%20Honorato&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<br/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=500&center=true&vCenter=true&width=700&lines=Software+Developer+%40+Follow+Labs;Building+AI+Tools+%26+Web+Experiences;Always+Shipping+Quality+Code" alt="Typing SVG" />
 
 <br/>
 
